@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Megplants
-- 👀 I’m interested in ... changing careers! I am currently searching for a Customer Success role.
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, Python, IT Support, and project management. Take a look at my learning profile at https://www.freecodecamp.org/Megplants
+- 👀 I’m interested in ... changing careers! I am currently searching for a Customer Success or Project Management role.
+- 🌱 I’m currently learning ... JavaScript, C, Python, and project management. Take a look at my learning profile at https://www.freecodecamp.org/Megplants
 - 💞️ My goal is to develop my own gardening website, but for now I am starting a garden blog. Check it out: https://megengel.wordpress.com
 - 📫 How to reach me ... megplants321@gmail.com
 
